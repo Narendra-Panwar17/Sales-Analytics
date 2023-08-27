@@ -11,10 +11,10 @@
   **7.** Create a report of top 5 Countries by Net Sales.
     
 - **Purpose of sales analytics:** 
-    **1.** Performance Evaluation	Sales analytics help evaluate the performance of products, salespeople, and regions, enabling data-driven decisions.
-    **2.** Demand Forecasting	By analyzing historical sales data, businesses can predict future demand more accurately, optimizing inventory.
-    **3.** Customer Insights	Sales analytics provide insights into customer preferences and behaviors, aiding in targeted marketing and sales.
-    **4.** Pricing Strategy	Analyzing sales data helps set competitive and profitable prices, considering factors like market trends and costs.
+    **1.** Sales analytics help evaluate the performance of products, salespeople, and regions, enabling data-driven decisions.
+    **2.**	By analyzing historical sales data, businesses can predict future demand more accurately, optimizing inventory.
+    **3.** Sales analytics provide insights into customer preferences and behaviors, aiding in targeted marketing and sales.
+    **4.**	Analyzing sales data helps set competitive and profitable prices, considering factors like market trends and costs.
 
 - **Importance of analyzing sales data:** 
     **1.** Informed choices through analysis of sales history, trends, and customer behavior.
